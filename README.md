@@ -1,5 +1,6 @@
 # EARAM-for-fake-news-detection
-EARAM for fake news detection
+EARAM for fake news detection.
+
 Our article has been accepted by EMNLP 2024@workshop For positive impact
 
 ## datasets
